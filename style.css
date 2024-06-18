@@ -270,7 +270,7 @@ div.icon {
     -o-transform: translateX(-115%);
 }
 
-div.icon svg.twitter:hover {
+div.icon svg:hover {
     fill: #81c0fd;
     cursor: pointer;
 }
